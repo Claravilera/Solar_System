@@ -2,9 +2,7 @@ package ModelSolarSystem;
 
 import EnumSolarSystem.PlanetsTypes;
 
-public class planetsModels {
-
-    public class PlanetsModels {
+public class PlanetsModels {
         private String name;
         private int numberOfSatellites;
         private double mass;
@@ -80,4 +78,3 @@ public class planetsModels {
             return distanceAU > 3.4;
         }
     }
-}

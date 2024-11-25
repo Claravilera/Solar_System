@@ -1,7 +1,7 @@
 package ControllerSolarSystem;
 
 import EnumSolarSystem.PlanetsTypes;
-import ModelSolarSystem.planetsModels.PlanetsModels;
+import ModelSolarSystem.PlanetsModels;
 import ViewSolarSystem.viewSolarSystem;
 
 public class App {
