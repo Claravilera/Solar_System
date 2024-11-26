@@ -14,7 +14,7 @@ This project is a console application developed in Java to model the concept of 
 
 ## Diagram
 
-[![Solar-System.jpg](https://i.postimg.cc/GpSRVqFY/Solar-System.jpg)](https://postimg.cc/mcMKF362)
+[![Solar-System.png](https://i.postimg.cc/JhQDXVW8/Solar-System.png)](https://postimg.cc/p9pLNSTc)
 
 ## Installation steps
 1. **Clone the repository**
